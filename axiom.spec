@@ -18,7 +18,7 @@ Patch1:		%{name}-no-test.patch
 Patch2:		%{name}-external-gcl.patch
 URL:		http://savannah.nongnu.org/projects/axiom/
 BuildRequires:	XFree86-devel
-BuildRequires	gawk
+BuildRequires:	gawk
 BuildRequires:	lynx
 BuildRequires:	ncurses-devel
 BuildRequires:	readline-devel
