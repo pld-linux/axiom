@@ -82,7 +82,7 @@ Axiom развивается с 1973 года и ранее
 Summary:	Axiom Book and other documentaion
 Summary(pl):	Axiom Book i inna dokumentacja
 Summary(ru_RU.UTF-8):	Книга и другая документация по Axiom
-Group:		Applications/Science
+Group:		Documentation
 
 %description doc
 Axiom Book and other Documentaion.
