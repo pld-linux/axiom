@@ -4,8 +4,8 @@
 #
 %define snap 20040509
 Summary:	Axiom Computer Algebra System
-Summary(pl.UTF-8):   System algebry komputerowej Axiom
-Summary(ru.UTF-8):   Система аналитических вычислений Axiom
+Summary(pl.UTF-8):	System algebry komputerowej Axiom
+Summary(ru.UTF-8):	Система аналитических вычислений Axiom
 Name:		axiom
 Version:	3.%{snap}
 Release:	1
@@ -74,8 +74,8 @@ Axiom развивается с 1973 года и ранее распростра
 
 %package doc
 Summary:	Axiom Book and other documentaion
-Summary(pl.UTF-8):   Axiom Book i inna dokumentacja
-Summary(ru.UTF-8):   Книга и другая документация по Axiom
+Summary(pl.UTF-8):	Axiom Book i inna dokumentacja
+Summary(ru.UTF-8):	Книга и другая документация по Axiom
 Group:		Documentation
 
 %description doc
