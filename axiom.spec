@@ -4,8 +4,8 @@
 #
 %define snap 20040509
 Summary:	Axiom Computer Algebra System
-Summary(pl):	System algebry komputerowej Axiom
-Summary(ru):	Система аналитических вычислений Axiom
+Summary(pl.UTF-8):   System algebry komputerowej Axiom
+Summary(ru.UTF-8):   п║п╦я│я┌п╣п╪п╟ п╟п╫п╟п╩п╦я┌п╦я┤п╣я│п╨п╦я┘ п╡я▀я┤п╦я│п╩п╣п╫п╦п╧ Axiom
 Name:		axiom
 Version:	3.%{snap}
 Release:	1
@@ -46,46 +46,46 @@ rebuild the algebra in a literate programming style (f) integrate
 logic programming (g) develop an Axiom Journal with refereed
 submissions.
 
-%description -l pl
-Axiom to system algebry komputerowej ogСlnego przeznaczenia. Jest
-przydatny przy badaniach i rozwoju algorytmСw matematycznych.
-Definiuje silnie typowan╠, poprawn╠ matematycznie hierarchiЙ typСw. Ma
-jЙzyk programowania i wbudowany kompilator.
+%description -l pl.UTF-8
+Axiom to system algebry komputerowej ogцЁlnego przeznaczenia. Jest
+przydatny przy badaniach i rozwoju algorytmцЁw matematycznych.
+Definiuje silnie typowanд┘, poprawnд┘ matematycznie hierarchiд≥ typцЁw. Ma
+jд≥zyk programowania i wbudowany kompilator.
 
-Axiom jest rozwijany od 1973 i byЁ sprzedawany jako produkt
-komercyjny. ZostaЁ wypuszczony jako darmowe oprogramowanie.
+Axiom jest rozwijany od 1973 i byе┌ sprzedawany jako produkt
+komercyjny. Zostaе┌ wypuszczony jako darmowe oprogramowanie.
 
-S╠ czynione starania rozszerzenia tego oprogramowania, aby: stworzyФ
-lepszy interfejs u©ytkownika, uczyniФ je przydatne jako narzЙdzie do
-nauczania, stworzyФ protokСЁ serwera algebry, zintegrowaФ dodatkow╠
-matematykЙ, przebudowaФ algebrЙ w czytelnym stylu programowania,
-zintegrowaФ programowanie logiczne, stworzyФ Axiom Journal.
+Sд┘ czynione starania rozszerzenia tego oprogramowania, aby: stworzyд┤
+lepszy interfejs uе╪ytkownika, uczyniд┤ je przydatne jako narzд≥dzie do
+nauczania, stworzyд┤ protokцЁе┌ serwera algebry, zintegrowaд┤ dodatkowд┘
+matematykд≥, przebudowaд┤ algebrд≥ w czytelnym stylu programowania,
+zintegrowaд┤ programowanie logiczne, stworzyд┤ Axiom Journal.
 
-%description -l ru
-Axiom является универсальной системой аналитических вычислений и может
-использоваться для научных исследований и развития математических
-алгоритмов. Axiom является строго типизированной системой с
-математически корректной иерархией типов. Система имеет собственный
-язык программирования и встроенный компилятор.
+%description -l ru.UTF-8
+Axiom я▐п╡п╩я▐п╣я┌я│я▐ я┐п╫п╦п╡п╣я─я│п╟п╩я▄п╫п╬п╧ я│п╦я│я┌п╣п╪п╬п╧ п╟п╫п╟п╩п╦я┌п╦я┤п╣я│п╨п╦я┘ п╡я▀я┤п╦я│п╩п╣п╫п╦п╧ п╦ п╪п╬п╤п╣я┌
+п╦я│п©п╬п╩я▄п╥п╬п╡п╟я┌я▄я│я▐ п╢п╩я▐ п╫п╟я┐я┤п╫я▀я┘ п╦я│я│п╩п╣п╢п╬п╡п╟п╫п╦п╧ п╦ я─п╟п╥п╡п╦я┌п╦я▐ п╪п╟я┌п╣п╪п╟я┌п╦я┤п╣я│п╨п╦я┘
+п╟п╩пЁп╬я─п╦я┌п╪п╬п╡. Axiom я▐п╡п╩я▐п╣я┌я│я▐ я│я┌я─п╬пЁп╬ я┌п╦п©п╦п╥п╦я─п╬п╡п╟п╫п╫п╬п╧ я│п╦я│я┌п╣п╪п╬п╧ я│
+п╪п╟я┌п╣п╪п╟я┌п╦я┤п╣я│п╨п╦ п╨п╬я─я─п╣п╨я┌п╫п╬п╧ п╦п╣я─п╟я─я┘п╦п╣п╧ я┌п╦п©п╬п╡. п║п╦я│я┌п╣п╪п╟ п╦п╪п╣п╣я┌ я│п╬п╠я│я┌п╡п╣п╫п╫я▀п╧
+я▐п╥я▀п╨ п©я─п╬пЁя─п╟п╪п╪п╦я─п╬п╡п╟п╫п╦я▐ п╦ п╡я│я┌я─п╬п╣п╫п╫я▀п╧ п╨п╬п╪п©п╦п╩я▐я┌п╬я─.
 
-Axiom развивается с 1973 года и ранее распространялась как
-коммерческий продукт. Сейчас система выпущена под свободной програмной
-лицензией.
+Axiom я─п╟п╥п╡п╦п╡п╟п╣я┌я│я▐ я│ 1973 пЁп╬п╢п╟ п╦ я─п╟п╫п╣п╣ я─п╟я│п©я─п╬я│я┌я─п╟п╫я▐п╩п╟я│я▄ п╨п╟п╨
+п╨п╬п╪п╪п╣я─я┤п╣я│п╨п╦п╧ п©я─п╬п╢я┐п╨я┌. п║п╣п╧я┤п╟я│ я│п╦я│я┌п╣п╪п╟ п╡я▀п©я┐я┴п╣п╫п╟ п©п╬п╢ я│п╡п╬п╠п╬п╢п╫п╬п╧ п©я─п╬пЁя─п╟п╪п╫п╬п╧
+п╩п╦я├п╣п╫п╥п╦п╣п╧.
 
 %package doc
 Summary:	Axiom Book and other documentaion
-Summary(pl):	Axiom Book i inna dokumentacja
-Summary(ru):	Книга и другая документация по Axiom
+Summary(pl.UTF-8):   Axiom Book i inna dokumentacja
+Summary(ru.UTF-8):   п п╫п╦пЁп╟ п╦ п╢я─я┐пЁп╟я▐ п╢п╬п╨я┐п╪п╣п╫я┌п╟я├п╦я▐ п©п╬ Axiom
 Group:		Documentation
 
 %description doc
 Axiom Book and other Documentaion.
 
-%description doc -l pl
+%description doc -l pl.UTF-8
 Axiom Book i inna dokumentacja.
 
-%description doc -l ru
-Книга и другая документация по Axiom.
+%description doc -l ru.UTF-8
+п п╫п╦пЁп╟ п╦ п╢я─я┐пЁп╟я▐ п╢п╬п╨я┐п╪п╣п╫я┌п╟я├п╦я▐ п©п╬ Axiom.
 
 %prep
 %setup -q -n %{name}
