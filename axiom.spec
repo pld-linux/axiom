@@ -90,7 +90,7 @@ Axiom Book i inna dokumentacja.
 %prep
 %setup -q -n %{name}
 %if !%{with tests}
-%patch1 -p1
+%patch -P1 -p1
 %endif
 
 cp %{SOURCE2} zips/gcl-2.6.2a.tgz
