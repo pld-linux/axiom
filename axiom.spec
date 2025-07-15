@@ -95,7 +95,7 @@ Axiom Book i inna dokumentacja.
 
 cp %{SOURCE2} zips/gcl-2.6.2a.tgz
 
-#%patch2 -p1
+#%%patch2 -p1
 
 %build
 export AXIOM=%{_builddir}/%{name}/mnt/linux
